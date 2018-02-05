@@ -31,6 +31,8 @@
 <h3>COMPILAZIONE/LINKING</h3>
 <p><b><em>Usare makefile, digitando make.</em></b></p>
 
+<hr>
+
 <h3>SCELTE PROGETTUALI<h3>
 
 <h4>Abbiamo creato una directory "src" per tutti i file sorgente:</h4> 
@@ -53,3 +55,6 @@
 -PCB.h
 </pre>
 
+<hr>
+
+<p><em>To be continued!!!</em></p>
