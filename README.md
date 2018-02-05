@@ -11,7 +11,7 @@ Yihong Chen
 
 COMPILAZIONE/LINKING
 Usare makefile, digitando make.
-<p>
+<b>
 SCELTE PROGETTUALI
 Abbiamo creato una directory "src" per tutti i file sorgente: 
 -main.c
@@ -28,4 +28,4 @@ Abbiamo creato una directory "header" per tutti i file .h:
 -uARMtypes.h
 -uARMconst.h
 -PCB.h
-</p>
+</b>
