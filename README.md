@@ -34,6 +34,7 @@
 <p><b><em>Usare makefile, digitando make.</em></b></p>
 
 <h3>SCELTE PROGETTUALI<h3>
+<pre>
 Abbiamo creato una directory "src" per tutti i file sorgente: 
 -main.c
 -Alloc.c 
@@ -49,4 +50,5 @@ Abbiamo creato una directory "header" per tutti i file .h:
 -uARMtypes.h
 -uARMconst.h
 -PCB.h
+</pre>
 
