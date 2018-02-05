@@ -2,8 +2,6 @@
 
 <h1 align="center">YAEOS</h1>
 
-<hr>
-
 <h3>INTRODUCTION</h3>
 <p>Progetto accademico basato sul processore emulato <b>uARM</b>.<p>
 <p>Occorre installare <b>uARM</b> per testare progetto.</p>
@@ -34,14 +32,17 @@
 <p><b><em>Usare makefile, digitando make.</em></b></p>
 
 <h3>SCELTE PROGETTUALI<h3>
+
+<h4>Abbiamo creato una directory "src" per tutti i file sorgente:</h4> 
 <pre>
-Abbiamo creato una directory "src" per tutti i file sorgente: 
 -main.c
 -Alloc.c 
 -Queue.c
 -Tree.c
 -Semaphore.c
-Abbiamo creato una directory "header" per tutti i file .h:
+</pre>
+<h4>Abbiamo creato una directory "header" per tutti i file .h:<h4>
+<pre>
 -Alloc.h 
 -Queue.h
 -Tree.h
