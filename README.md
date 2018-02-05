@@ -57,4 +57,4 @@
 
 <hr>
 
-<p><em>To be continued!!!</em></p>
+<p align="right"><b><em>To be continued!!!</em></b></p>
