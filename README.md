@@ -1,6 +1,6 @@
 # OS-project
 
-YAEOS
+<h1 align="center">YAEOS</h1>
 Progetto accademico basato sul processore emulato uARM. Occorre installare uARM per testare progetto.
 Github repository: https://github.com/Plutone11011/OS-project
 
