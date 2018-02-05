@@ -3,9 +3,10 @@
 <h1 align="center">YAEOS</h1>
 <p>Progetto accademico basato sul processore emulato <b>uARM</b>.<p>
 <p>Occorre installare <b>uARM</b> per testare progetto.</p>
-Github repository: https://github.com/Plutone11011/OS-project
+<h3>Github repository:</h3>
+<p>https://github.com/Plutone11011/OS-project<p>
 
-AUTHORS
+<h3>AUTHORS</h3>
 Lorenzo Borelli 0000789622
 Federico Biagi 0000758635
 Yihong Chen 
